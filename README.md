@@ -1,2 +1,2 @@
-# automatizacion-pruebas
-Proyecto educacional
+# Automatización de pruebas (Proyecto educacional)
+
