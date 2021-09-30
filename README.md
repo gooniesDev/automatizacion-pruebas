@@ -1,6 +1,6 @@
 # Automatización de pruebas 
 
-<img src="https://c.neh.tw/thumb/f/720/6753122949005312.jpg/200/300" />
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.nohat.cc%2Fthumb%2Ff%2F720%2F6753122949005312.jpg&f=1&nofb=1/200/300" />
 
 Este es un proyecto educacional de Duoc del ramo llamado Automatización de pruebas, el cual recibimos un caso, luego el código de este caso para posteriormente crear pruebas utilizando la metodología TDD (Test Driver Development). Todo esto se realizará en el lenguaje de programación Python.
 
